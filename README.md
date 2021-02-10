@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/lazypwny751?template=terminal&activity=1&isocalendar=1&languages=1&pagespeed=1&languages.ignored=bash&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&pagespeed.url=https%3A%2F%2Fgithub.com%2Flazypwny751&config.timezone=Europe%2FIstanbul&config.animated=true)
+![readme wallpaper](http://patbloom.com/assets/components/phpthumbof/cache/Pat-Bloom-Art--Abstract-Composition-20--Desktop.e93e1be5e3513f291a4e2295940b8585902.jpg)
