@@ -1,1 +1,1 @@
-![readme wallpaper](tbvpt.jpg)
+![readme wallpaper](eyvallahemilkardes1.png)
